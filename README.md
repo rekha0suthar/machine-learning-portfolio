@@ -1,7 +1,7 @@
-# Prompt Engineering Portfolio
+# Machine Learning Engineering Portfolio
 
 ## Introduction
-  As an aspiring and experienced Prompt Machine Learning Engineer, wanted to build a personal Prompt portfolio to share learnings, and experiences and collaborate with people who have the same interest in this field.
+  As an aspiring and experienced Machine Learning Engineer, wanted to build a personal machine learning portfolio to share learnings, and experiences and collaborate with people who have the same interest in this field.
 
 ## Projects
 
