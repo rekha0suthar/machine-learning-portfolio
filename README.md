@@ -13,11 +13,6 @@ Using gpt-3.5-turbo Language model building restaurant chatbot which will take p
 
 [screen-capture.webm](https://github.com/rekha0suthar/machine-learning-portfolio/assets/71004640/b60f311c-3ba6-45c0-a149-7a39688ed43c)
 
-### Grocery Store Web Application
->**Keywords:** Python, Flask, SQLite [View Source](https://github.com/rekha0suthar/grocery-store-web-application)
-
-In this application, there are two parts- User and Admin/Manager. Admin can add products, and categories and can perform all CRUD operations on Products and Category. Also, the User and admin can add a product to the cart, change the quantity, remove a product from a cart, or pay for it. All ordered products will be shown on orders.
-
 ### Snake game
 [View Source](https://github.com/rekha0suthar/machine-learning-portfolio/blob/main/snake-game.ipynb)
 
@@ -25,6 +20,11 @@ Using gpt-3.5-turbo Language model building snake game which will take prompt an
 
 [screen-capture (1).webm](https://github.com/rekha0suthar/machine-learning-portfolio/assets/71004640/562f4621-8cd6-4518-b125-5f002eb098c3)
 
+## Web Application Development
+### Grocery Store Web Application
+>**Keywords:** Python, Flask, SQLite [View Source](https://github.com/rekha0suthar/grocery-store-web-application)
+
+In this application, there are two parts- User and Admin/Manager. Admin can add products, and categories and can perform all CRUD operations on Products and Category. Also, the User and admin can add a product to the cart, change the quantity, remove a product from a cart, or pay for it. All ordered products will be shown on orders.
 
 
 ## Deep Learning
