@@ -11,7 +11,7 @@
 
 Using gpt-3.5-turbo Language model building restaurant chatbot which will take prompt and respond with an appropriate response.
 
-[screen-capture.webm](https://github.com/rekha0suthar/machine-learning-portfolio/assets/71004640/b60f311c-3ba6-45c0-a149-7a39688ed43c)
+[screen-capture.webm](https://github.com/rekha0suthar/machine-learning-portfolio/assets/71004640/08eb7e78-ebe2-4208-88a7-682f44fb9411)
 
 ### Snake game
 [View Source](https://github.com/rekha0suthar/machine-learning-portfolio/blob/main/snake-game.ipynb)
